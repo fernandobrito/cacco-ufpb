@@ -1,0 +1,8 @@
+name: CACCO/UFPB - Centro Acadêmico de Ciência da Computação da UFPB
+markdown: redcarpet
+pygments: true
+
+baseurl: /cacco-ufpb
+permalink: /:year/:month/:title.html
+
+exclude: [Gemfile, Gemfile.lock, README.md]
