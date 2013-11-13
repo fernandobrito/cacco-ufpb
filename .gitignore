@@ -1,1 +1,4 @@
 _site/
+.idea
+.ruby-gemset
+.ruby-version
